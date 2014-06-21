@@ -31,3 +31,6 @@ The included R script (run_analysis.R) performs the following to clean up the da
 	* Column 1 contains subject IDs (integers with values between 1-30)
 	* Column 2 contains activity names (characters)
 	* Columns 3-66 are averages of attribute measurements
+ 
+
+See ./UCI HAR DATASET/features.txt for detailed description of each attribute measured.	

@@ -30,10 +30,9 @@ The original data for the project were obtained from:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-An R script, **run_analysis.R**, performs the following actions:
+The R script, **run_analysis.R**, performs the following actions:
 
  * Merges the training and the test sets to create one data set
  * Removes special characters from the raw data
- * Uses descriptive activity names to name the activities in the data set
- * Appropriately labels the data set with descriptive variable names
+ * Applies more descriptive names to label activity attributes
  * Creates a second, tidy data set with the average of each subject's activity measurements 

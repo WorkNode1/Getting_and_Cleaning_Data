@@ -3,7 +3,7 @@
 The raw data was obtained from:<br>
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-The included R script (run_analysis.R) performs the following actions to clean up and refine the data:
+The included R script (run_analysis.R) performs the following actions to clean up and refine this raw data:
 
 * Merges the training and test sets into a single data set
 	* ./UCI HAR Dataset/train/X_train.txt is merged with ./UCI HAR Dataset/test/X_test.txt, yielding a table with 10299 rows x 561 columns

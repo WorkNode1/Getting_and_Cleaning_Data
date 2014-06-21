@@ -2,11 +2,9 @@
 
 This repository contains files related to the course project for Coursera's Getting and Cleaning Data class.
 
-The purpose of this project is to demonstrate the ability to collect,
-work with, and clean a data set. The goal is to prepare tidy data that
-can be used for later analysis.
+The purpose of this project is to demonstrate the ability to collect, work with, and clean a data set. The goal is to prepare two tidy datasets that can be used for later analysis.
 
-Project Deliverables:<br>
+##Project Deliverables:<br>
 * a tidy data set as described below,<br>
 * a link to a Github repository with the script (run_analysis.R) for performing the analysis<br>
 * a code book, called CodeBook.md, that describes:<br>
@@ -32,11 +30,9 @@ The original data for the project were obtained from:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-The program that cleans the data is an R script, called run_analysis.R, does the following:
+The R script, **run_analysis.R**, performs the following actions:
 
- * Merges the training and the test sets to create one data set.
- * Extracts only the measurements on the mean and standard deviation for each measurement. 
- * Uses descriptive activity names to name the activities in the data set
- * Appropriately labels the data set with descriptive variable names. 
- * Creates a second, independent tidy data set with the average of each variable for each 
-   activity and each subject. 
+ * Merges the training and the test sets to create one data set
+ * Removes special characters from the raw data
+ * Applies more descriptive names to label activity attributes
+ * Creates a second, tidy data set with the average of each subject's activity measurements 

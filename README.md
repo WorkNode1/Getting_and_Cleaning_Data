@@ -1,22 +1,21 @@
-<center>Getting and Cleaning Data</center>
-<center>Class Project</center>
+##**Getting and Cleaning Data - Course Project**
 
-Course Project for Coursera's Getting and Cleaning Data class
+This repository contains the files related to the course project for Coursera's Getting and Cleaning Data class.
 
 The purpose of this project is to demonstrate the ability to collect,
 work with, and clean a data set. The goal is to prepare tidy data that
 can be used for later analysis.
 
 Project Deliverables:<br>
-	1) a tidy data set as described below,<br>
-	2) a link to a Github repository with your script for performing the analysis<br>
-	3) a code book, called CodeBook.md, that describes:<br>
-		the variables,<br>
-		the data,<br>
-		any transformations or work performed to clean up the data.<br>
+	1. a tidy data set as described below,<br>
+	2. a link to a Github repository with your script for performing the analysis<br>
+	3. a code book, called CodeBook.md, that describes:<br>
+		* the variables,<br>
+		* the data,<br>
+		* any transformations or work performed to clean up the data.<br>
 
-Background
-==========
+###Background
+
 
 One of the most exciting areas in all of data science right now is wearable computing -
 see for example this article:

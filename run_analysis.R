@@ -2,7 +2,8 @@
 # https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 #
 # See CodeBook.md for a description of how this script processes the raw data
-# into two more-tidy formats.
+# into two more-tidy formats, one with complete measurement data and a 2nd one
+# with averages of the measurement data, which is submitted for grading.
 #
 
 # 1. Merge the training and the test sets to create one data set.

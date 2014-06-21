@@ -4,7 +4,7 @@ This repository contains files related to the course project for Coursera's Gett
 
 The purpose of this project is to demonstrate the ability to collect, work with, and clean a data set. The goal is to prepare two tidy datasets that can be used for later analysis.
 
-Project Deliverables:<br>
+**Project Deliverables:**<br>
 * a tidy data set as described below,<br>
 * a link to a Github repository with the script (run_analysis.R) for performing the analysis<br>
 * a code book, called CodeBook.md, that describes:<br>

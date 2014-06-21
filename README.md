@@ -7,12 +7,12 @@ work with, and clean a data set. The goal is to prepare tidy data that
 can be used for later analysis.
 
 Project Deliverables:<br>
-	1. a tidy data set as described below,<br>
-	2. a link to a Github repository with your script for performing the analysis<br>
-	3. a code book, called CodeBook.md, that describes:<br>
-		* the variables,<br>
-		* the data,<br>
-		* any transformations or work performed to clean up the data.<br>
+* a tidy data set as described below,<br>
+* a link to a Github repository with the script (run_analysis.R) for performing the analysis<br>
+* a code book, called CodeBook.md, that describes:<br>
+	* the variables,<br>
+	* the data,<br>
+	* any transformations or work performed to clean up the data.<br>
 
 ###Background
 

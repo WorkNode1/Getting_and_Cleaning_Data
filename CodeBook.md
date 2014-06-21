@@ -33,4 +33,4 @@ The included R script (run_analysis.R) performs the following to clean up the da
 	* Columns 3-66 are averages of attribute measurements
  
 
-See ./UCI HAR DATASET/features.txt for detailed description of each attribute measured.	
+See ./UCI HAR DATASET/features_info.txt for a more detailed description of each attribute measured.	

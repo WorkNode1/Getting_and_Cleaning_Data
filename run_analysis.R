@@ -1,5 +1,9 @@
-# Using dataset for Human Activity Recognition Using Smartphones found at:
+# Cleans data for the "Human Activity Recognition Using Smartphones" dataset found at:
 # https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+#
+# See CodeBook.md for a description of how this script processes the raw data
+# into two more-tidy formats.
+#
 
 # 1. Merge the training and the test sets to create one data set.
 

@@ -1,5 +1,5 @@
-Getting and Cleaning Data - Class Project
-=========================================
+<center>Getting and Cleaning Data</center>
+<center>Class Project</center>
 
 Course Project for Coursera's Getting and Cleaning Data class
 
@@ -7,13 +7,13 @@ The purpose of this project is to demonstrate the ability to collect,
 work with, and clean a data set. The goal is to prepare tidy data that
 can be used for later analysis.
 
-Project Deliverables:
-	1) a tidy data set as described below,
-	2) a link to a Github repository with your script for performing the analysis
-	3) a code book, called CodeBook.md, that describes:
-		the variables,
-		the data,
-		any transformations or work performed to clean up the data.
+Project Deliverables:<br>
+	1) a tidy data set as described below,<br>
+	2) a link to a Github repository with your script for performing the analysis<br>
+	3) a code book, called CodeBook.md, that describes:<br>
+		the variables,<br>
+		the data,<br>
+		any transformations or work performed to clean up the data.<br>
 
 Background
 ==========

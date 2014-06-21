@@ -59,4 +59,4 @@ for (subject in 1:num.subjects) {
     row <- row + 1
   }
 }
-write.table(sub.act.table, "tidy_data_with_avgs.txt")
+write.table(sub.act.table, "tidy_data_avgs.txt")

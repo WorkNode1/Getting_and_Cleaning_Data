@@ -3,7 +3,7 @@
 Raw data can be found at: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 
-The attached R script (run_analysis.R) performs the following to clean up the data:
+The included R script (run_analysis.R) performs the following to clean up the data:
 
 * Merges the training and test sets into a single data set
 	* ./UCI HAR Dataset/train/X_train.txt is merged with ./UCI HAR Dataset/test/X_test.txt, yielding a table with 10299 rows x 561 columns

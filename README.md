@@ -30,11 +30,10 @@ The original data for the project were obtained from:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-The program that cleans the data is an R script, called run_analysis.R, does the following:
+An R script, **run_analysis.R**, performs the following actions:
 
- * Merges the training and the test sets to create one data set.
+ * Merges the training and the test sets to create one data set
+ * Removes special characters from the raw data
  * Uses descriptive activity names to name the activities in the data set
- * Appropriately labels the data set with descriptive variable names.
- * Extracts the mean of each subject's activity measurements. 
- * Creates a second, independent tidy data set with the average of each variable for each 
-   activity and each subject. 
+ * Appropriately labels the data set with descriptive variable names
+ * Creates a second, tidy data set with the average of each subject's activity measurements 

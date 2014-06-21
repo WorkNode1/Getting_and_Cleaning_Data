@@ -27,7 +27,7 @@ The included R script (run_analysis.R) performs the following actions to clean u
 	* Column 2 contains activity names (characters)
 	* Columns 3-66 contain measurements of various attributes
 
-* Finally, the script creates another tidy dataset with 180 rows and 68 columns.  The rows contain the averages for each of 30 subjects for each of 6 possible activities.
+* Finally, the script creates the tidy dataset with 180 rows and 68 columns.  The rows contain the averages for each of 30 subjects for each of 6 possible activities.
 	* Column 1 contains subject IDs (integers with values between 1-30)
 	* Column 2 contains activity names (characters)
 	* Columns 3-66 are averages of attribute measurements

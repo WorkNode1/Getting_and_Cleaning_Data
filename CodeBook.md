@@ -25,9 +25,9 @@ The attached R script (run_analysis.R) performs the following to clean up the da
 * Merges the features table with the tables containing activity labels and subject IDs, saving the result to tidy_data.txt, a table with 10299 and 68 columns.
 	* Column 1 contains subject IDs (integers with values between 1-30)
 	* Column 2 contains activity names (characters)
-	* Columns 3-66 contain measurements of various attributes.
+	* Columns 3-66 contain measurements of various attributes
 
 * Finally, the script creates another tidy dataset with 180 rows and 68 columns.  The rows contain the averages for each of 30 subjects for each of 6 possible activities.
 	* Column 1 contains subject IDs (integers with values between 1-30)
 	* Column 2 contains activity names (characters)
-	* Columns 3-66 are averages of attribute measurements. 
+	* Columns 3-66 are averages of attribute measurements

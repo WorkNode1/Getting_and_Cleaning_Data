@@ -1,6 +1,6 @@
 ##**Getting and Cleaning Data - Course Project**
 
-This repository contains the files related to the course project for Coursera's Getting and Cleaning Data class.
+This repository contains files related to the course project for Coursera's Getting and Cleaning Data class.
 
 The purpose of this project is to demonstrate the ability to collect,
 work with, and clean a data set. The goal is to prepare tidy data that
@@ -15,7 +15,6 @@ Project Deliverables:<br>
 	* any transformations or work performed to clean up the data.<br>
 
 ###Background
-
 
 One of the most exciting areas in all of data science right now is wearable computing -
 see for example this article:
@@ -33,7 +32,7 @@ The original data for the project were obtained from:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-The program that cleans the data is an R script called run_analysis.R that does the following:
+The program that cleans the data is an R script, called run_analysis.R, does the following:
 
  * Merges the training and the test sets to create one data set.
  * Extracts only the measurements on the mean and standard deviation for each measurement. 
